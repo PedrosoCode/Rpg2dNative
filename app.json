@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rpg2d",
+    "slug": "rpg2d",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rpg2d"
+}
